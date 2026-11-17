@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8b3474-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8b3474-f13c-102f-8255-0050568c0263",
+ "signature": "ET VII 61",
+ "parish": "Těšín (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Těšín",
+  "Dolní Třanovice",
+  "Horní Třanovice",
+  "Dolní Žukov",
+  "Horní Žukov",
+  "Mistřovice",
+  "Koňákov"
+ ],
+ "place_codes": {
+  "Dolní Žukov": 23264,
+  "Horní Žukov": 44725,
+  "Mistřovice": 96121,
+  "Koňákov": 96113
+ },
+ "records": {
+  "Z": "1888",
+  "iZ": "1888"
+ },
+ "notes": [
+  "Roční svazek; rejstřík na sn. 1, fol. 27 = sn. 32."
+ ],
+ "points": [
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1888,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

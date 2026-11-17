@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be89352a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be89352a-f13c-102f-8255-0050568c0263",
+ "signature": "Ka V 4",
+ "parish": "Orlová",
+ "district": "Karviná",
+ "places": [
+  "Orlová",
+  "Lazy",
+  "Doubrava",
+  "Poruba"
+ ],
+ "place_codes": {
+  "Lazy": 413461,
+  "Doubrava": 31160,
+  "Poruba": 413488
+ },
+ "records": {
+  "iN": "1784–1807"
+ },
+ "scans": 32,
+ "notes": [
+  "Po písmenech, každé písmeno začíná na nové straně; uvnitř podle folia Ka V 3 – folia nejsou chronologická (fol. 278 = 1797)."
+ ],
+ "points": [
+  {
+   "scan": 21,
+   "type": "iN",
+   "letters": "M",
+   "by": "mboron"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "letters": "P",
+   "note": "P začíná na pravé straně (str. 26)",
+   "by": "mboron"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "letters": "P",
+   "page": "27",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

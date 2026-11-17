@@ -1,0 +1,175 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8946c8-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8946c8-f13c-102f-8255-0050568c0263",
+ "signature": "Ka VII 19",
+ "parish": "Těrlicko",
+ "district": "Karviná",
+ "places": [
+  "Těrlicko",
+  "Hradiště",
+  "Chotěbuz",
+  "Koňákov",
+  "Koty",
+  "Mistřovice",
+  "Stanislavice"
+ ],
+ "place_codes": {
+  "Hradiště": 47481,
+  "Chotěbuz": 52957,
+  "Koňákov": 96113,
+  "Mistřovice": 96121,
+  "Stanislavice": 153524
+ },
+ "records": {
+  "N": "1828–1877"
+ },
+ "order": "by_village",
+ "scans": 384,
+ "notes": [
+  "Rejstřík I-N 1844–1949 Ka VII 28."
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "N",
+   "year": 1828,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1832,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1834,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1835,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1835,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1835,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1836,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1836,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1837,
+   "page": "93",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1834,
+   "year_to": 1835,
+   "page": "328–329",
+   "place": "Stanislavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1834,
+   "year_to": 1836,
+   "page": "426–429",
+   "place": "Chotěbuz",
+   "note": "2 snímky 212–213",
+   "by": "mboron"
+  },
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1872,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 245,
+   "type": "N",
+   "year": 1874,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1834,
+   "year_to": 1835,
+   "page": "512–513",
+   "place": "Koňákov",
+   "by": "mboron"
+  },
+  {
+   "scan": 284,
+   "type": "N",
+   "year": 1834,
+   "year_to": 1836,
+   "page": "568–571",
+   "place": "Mistřovice",
+   "note": "2 snímky 284–285",
+   "by": "mboron"
+  },
+  {
+   "scan": 306,
+   "type": "N",
+   "year": 1834,
+   "year_to": 1836,
+   "page": "612–613",
+   "place": "Koty",
+   "by": "mboron"
+  },
+  {
+   "scan": 335,
+   "type": "N",
+   "year": 1835,
+   "page": "670–671",
+   "place": "Hradiště",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

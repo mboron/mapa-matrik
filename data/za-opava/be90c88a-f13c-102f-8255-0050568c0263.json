@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be90c88a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be90c88a-f13c-102f-8255-0050568c0263",
+ "signature": "Ka VII 21",
+ "parish": "Těrlicko",
+ "district": "Karviná",
+ "places": [
+  "Těrlicko",
+  "Hradiště",
+  "Chotěbuz",
+  "Koňákov",
+  "Koty",
+  "Mistřovice",
+  "Stanislavice"
+ ],
+ "place_codes": {
+  "Hradiště": 47481,
+  "Chotěbuz": 52957,
+  "Koňákov": 96113,
+  "Mistřovice": 96121,
+  "Stanislavice": 153524
+ },
+ "records": {
+  "iO": "1679–1949"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "iO",
+   "year": 1806,
+   "year_to": 1858,
+   "letters": "C",
+   "by": "mboron"
+  },
+  {
+   "scan": 12,
+   "type": "iO",
+   "year": 1861,
+   "year_to": 1941,
+   "letters": "C",
+   "by": "mboron"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "M",
+   "by": "mboron"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "letters": "O",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

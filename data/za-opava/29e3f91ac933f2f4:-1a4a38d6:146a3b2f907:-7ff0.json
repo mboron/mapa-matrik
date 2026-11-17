@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-1a4a38d6:146a3b2f907:-7ff0",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-1a4a38d6:146a3b2f907:-7ff0",
+ "signature": "Fr VI 19",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "O": "1869–1949"
+ },
+ "order": "by_village",
+ "notes": [
+  "Rejstřík Fr VI 27."
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "year": 1869,
+   "place": "Domaslavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1929,
+   "place": "Domaslavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1890,
+   "year_to": 1894,
+   "page": "fol. 7–8",
+   "place": "Volovec",
+   "note": "2 snímky 115–116",
+   "by": "mboron"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "year": 1894,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 121,
+   "type": "O",
+   "year": 1923,
+   "year_to": 1927,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1936,
+   "year_to": 1939,
+   "place": "Volovec",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

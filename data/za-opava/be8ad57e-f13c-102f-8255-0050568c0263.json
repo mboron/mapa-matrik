@@ -1,0 +1,254 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ad57e-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ad57e-f13c-102f-8255-0050568c0263",
+ "signature": "ET I 5",
+ "parish": "Dolní Bludovice (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Suchá",
+  "Prostřední Suchá",
+  "Horní Suchá",
+  "Dolní Těrlicko",
+  "Horní Těrlicko",
+  "Stonava",
+  "Životice",
+  "Šumbark",
+  "Datyně"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Suchá": 37770,
+  "Prostřední Suchá": 37745,
+  "Horní Suchá": 44407,
+  "Dolní Těrlicko": 166600,
+  "Horní Těrlicko": 166570,
+  "Stonava": 155632,
+  "Životice": 37681,
+  "Šumbark": 37737
+ },
+ "records": {
+  "iN": "1784–1820"
+ },
+ "scans": 72,
+ "notes": [
+  "Po letech, uvnitř po písmenech (č. v roce, jméno, dítě, otec, obec, fol.); folium = strana ET I 1 / ET I 2.",
+  "Orlová v letech 1784–1785 v rejstříku není (poprvé 1786)."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "iN",
+   "year": 1784,
+   "letters": "A–K",
+   "by": "mboron"
+  },
+  {
+   "scan": 3,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1785,
+   "letters": "1784 P–Z, 1785 A–K",
+   "by": "mboron"
+  },
+  {
+   "scan": 4,
+   "type": "iN",
+   "year": 1785,
+   "letters": "P–T",
+   "by": "mboron"
+  },
+  {
+   "scan": 6,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1787,
+   "letters": "1786 P–T, 1787 A–F",
+   "by": "mboron"
+  },
+  {
+   "scan": 7,
+   "type": "iN",
+   "year": 1787,
+   "letters": "G–S",
+   "by": "mboron"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1788,
+   "letters": "K–W",
+   "by": "mboron"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "year": 1788,
+   "year_to": 1789,
+   "letters": "1788 W–Z, 1789 A–F",
+   "by": "mboron"
+  },
+  {
+   "scan": 11,
+   "type": "iN",
+   "year": 1789,
+   "letters": "L–Z",
+   "by": "mboron"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "year": 1790,
+   "letters": "A–K",
+   "by": "mboron"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "year": 1790,
+   "letters": "K–Z",
+   "by": "mboron"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "year": 1791,
+   "letters": "K–S",
+   "by": "mboron"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1792,
+   "letters": "1791 T–Z, 1792 A–K",
+   "by": "mboron"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1792,
+   "letters": "K–S",
+   "by": "mboron"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1792,
+   "year_to": 1793,
+   "letters": "1792 S–W, 1793 A–K",
+   "by": "mboron"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1793,
+   "year_to": 1794,
+   "letters": "1793 K–Z, 1794 A–B",
+   "by": "mboron"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1803,
+   "by": "mboron"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "year": 1803,
+   "by": "mboron"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "year": 1804,
+   "by": "mboron"
+  },
+  {
+   "scan": 38,
+   "type": "iN",
+   "year": 1804,
+   "by": "mboron"
+  },
+  {
+   "scan": 53,
+   "type": "iN",
+   "year": 1811,
+   "letters": "K–P",
+   "by": "mboron"
+  },
+  {
+   "scan": 54,
+   "type": "iN",
+   "year": 1811,
+   "year_to": 1812,
+   "letters": "1811 P–Z, 1812 A–B",
+   "by": "mboron"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "year": 1812,
+   "year_to": 1813,
+   "letters": "1812 O–Z, 1813 A–B",
+   "by": "mboron"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1813,
+   "year_to": 1814,
+   "letters": "1813 O–Z, 1814 A–C",
+   "by": "mboron"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1814,
+   "letters": "M–Z",
+   "by": "mboron"
+  },
+  {
+   "scan": 62,
+   "type": "iN",
+   "year": 1815,
+   "year_to": 1816,
+   "letters": "1815 K–Z, 1816 A–B",
+   "by": "mboron"
+  },
+  {
+   "scan": 64,
+   "type": "iN",
+   "year": 1816,
+   "letters": "K–S",
+   "by": "mboron"
+  },
+  {
+   "scan": 66,
+   "type": "iN",
+   "year": 1817,
+   "year_to": 1818,
+   "by": "mboron"
+  },
+  {
+   "scan": 68,
+   "type": "iN",
+   "year": 1818,
+   "letters": "K–Z",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

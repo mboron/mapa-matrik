@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be894740-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be894740-f13c-102f-8255-0050568c0263",
+ "signature": "Ka VII 20",
+ "parish": "Těrlicko",
+ "district": "Karviná",
+ "places": [
+  "Těrlicko",
+  "Hradiště",
+  "Chotěbuz",
+  "Koňákov",
+  "Koty",
+  "Mistřovice",
+  "Stanislavice"
+ ],
+ "place_codes": {
+  "Hradiště": 47481,
+  "Chotěbuz": 52957,
+  "Koňákov": 96113,
+  "Mistřovice": 96121,
+  "Stanislavice": 153524
+ },
+ "records": {
+  "O": "1827–1897"
+ },
+ "order": "by_village",
+ "notes": [
+  "Rejstřík I-O 1679–1949 Ka VII 21."
+ ],
+ "points": [
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1835,
+   "page": "fol. 10–12",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1835,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1841,
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1865,
+   "year_to": 1867,
+   "page": "fol. 47–48",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1876,
+   "year_to": 1881,
+   "place": "Stanislavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1828,
+   "page": "fol. 104",
+   "place": "Chotěbuz",
+   "note": "začátek oddílu od 1828",
+   "by": "mboron"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1885,
+   "page": "228",
+   "place": "Hradiště",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be891e78-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be891e78-f13c-102f-8255-0050568c0263",
+ "signature": "Ka I 9",
+ "parish": "Dolní Bludovice",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404
+ },
+ "records": {
+  "Z": "1784–1836"
+ },
+ "notes": [
+  "Do 1830 zapisuje i evangelíky."
+ ],
+ "points": [
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1829,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

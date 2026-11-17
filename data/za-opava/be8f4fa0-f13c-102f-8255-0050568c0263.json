@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8f4fa0-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8f4fa0-f13c-102f-8255-0050568c0263",
+ "signature": "ET V 12",
+ "parish": "Orlová (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Orlová",
+  "Lazy",
+  "Doubrava",
+  "Karviná",
+  "Petřvald",
+  "Bohumín"
+ ],
+ "place_codes": {
+  "Lazy": 413461,
+  "Doubrava": 31160,
+  "Petřvald": 120481
+ },
+ "records": {
+  "O": "1904–1923"
+ },
+ "notes": [
+  "Bez rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1909,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

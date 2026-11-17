@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be89378c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be89378c-f13c-102f-8255-0050568c0263",
+ "signature": "Ka V 9",
+ "parish": "Orlová",
+ "district": "Karviná",
+ "places": [
+  "Orlová",
+  "Lazy",
+  "Doubrava",
+  "Poruba"
+ ],
+ "place_codes": {
+  "Lazy": 413461,
+  "Doubrava": 31160,
+  "Poruba": 413488
+ },
+ "records": {
+  "iO": "1784–1841"
+ },
+ "scans": 27,
+ "notes": [
+  "Abecedně podle ženicha, bez roků; Folium = strana v Ka V 8."
+ ],
+ "points": [
+  {
+   "scan": 13,
+   "type": "iO",
+   "letters": "K",
+   "by": "mboron"
+  },
+  {
+   "scan": 18,
+   "type": "iO",
+   "letters": "N–O",
+   "by": "mboron"
+  },
+  {
+   "scan": 19,
+   "type": "iO",
+   "letters": "P",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

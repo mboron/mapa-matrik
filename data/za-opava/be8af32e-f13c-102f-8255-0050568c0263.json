@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8af32e-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8af32e-f13c-102f-8255-0050568c0263",
+ "signature": "ET III 2",
+ "parish": "Komorní Lhotka (evang.)",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Komorní Lhotka",
+  "Dolní Tošanovice",
+  "Horní Tošanovice",
+  "Smilovice",
+  "Hnojník",
+  "Řeka",
+  "Guty",
+  "Lískovec"
+ ],
+ "place_codes": {
+  "Komorní Lhotka": 68811,
+  "Dolní Tošanovice": 30236,
+  "Horní Tošanovice": 44466,
+  "Smilovice": 151041,
+  "Hnojník": 40193,
+  "Řeka": 145050,
+  "Guty": 36293,
+  "Lískovec": 84891
+ },
+ "records": {
+  "N": "1812–1848"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1812,
+   "by": "mboron"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1812,
+   "by": "mboron"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1813,
+   "by": "mboron"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1814,
+   "by": "mboron"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1815,
+   "by": "mboron"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1815,
+   "by": "mboron"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1822,
+   "by": "mboron"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1824,
+   "by": "mboron"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1827,
+   "by": "mboron"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1827,
+   "by": "mboron"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1832,
+   "by": "mboron"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1837,
+   "by": "mboron"
+  },
+  {
+   "scan": 223,
+   "type": "N",
+   "year": 1843,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

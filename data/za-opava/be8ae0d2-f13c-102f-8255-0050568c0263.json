@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ae0d2-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ae0d2-f13c-102f-8255-0050568c0263",
+ "signature": "ET I 18",
+ "parish": "Dolní Bludovice (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Suchá",
+  "Prostřední Suchá",
+  "Horní Suchá",
+  "Dolní Těrlicko",
+  "Horní Těrlicko",
+  "Stonava",
+  "Životice",
+  "Šumbark",
+  "Datyně"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Suchá": 37770,
+  "Prostřední Suchá": 37745,
+  "Horní Suchá": 44407,
+  "Dolní Těrlicko": 166600,
+  "Horní Těrlicko": 166570,
+  "Stonava": 155632,
+  "Životice": 37681,
+  "Šumbark": 37737
+ },
+ "records": {
+  "N": "1887–1892"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1888,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

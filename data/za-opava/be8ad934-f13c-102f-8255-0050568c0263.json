@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ad934-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ad934-f13c-102f-8255-0050568c0263",
+ "signature": "ET I 8a",
+ "parish": "Dolní Bludovice (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Suchá",
+  "Prostřední Suchá",
+  "Horní Suchá",
+  "Dolní Těrlicko",
+  "Horní Těrlicko",
+  "Stonava",
+  "Životice",
+  "Šumbark",
+  "Datyně"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Suchá": 37770,
+  "Prostřední Suchá": 37745,
+  "Horní Suchá": 44407,
+  "Dolní Těrlicko": 166600,
+  "Horní Těrlicko": 166570,
+  "Stonava": 155632,
+  "Životice": 37681,
+  "Šumbark": 37737
+ },
+ "records": {
+  "iO": "1782–1859"
+ },
+ "scans": 45,
+ "notes": [
+  "Po letech, uvnitř zhruba abecedně podle ženicha; folio = strana ET I 8."
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "iO",
+   "year": 1782,
+   "year_to": 1784,
+   "by": "mboron"
+  },
+  {
+   "scan": 2,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1787,
+   "by": "mboron"
+  },
+  {
+   "scan": 3,
+   "type": "iO",
+   "year": 1787,
+   "year_to": 1789,
+   "by": "mboron"
+  },
+  {
+   "scan": 4,
+   "type": "iO",
+   "year": 1789,
+   "year_to": 1791,
+   "by": "mboron"
+  },
+  {
+   "scan": 5,
+   "type": "iO",
+   "year": 1791,
+   "year_to": 1793,
+   "by": "mboron"
+  },
+  {
+   "scan": 6,
+   "type": "iO",
+   "year": 1794,
+   "year_to": 1797,
+   "by": "mboron"
+  },
+  {
+   "scan": 7,
+   "type": "iO",
+   "year": 1797,
+   "year_to": 1799,
+   "by": "mboron"
+  },
+  {
+   "scan": 8,
+   "type": "iO",
+   "year": 1800,
+   "year_to": 1802,
+   "by": "mboron"
+  },
+  {
+   "scan": 9,
+   "type": "iO",
+   "year": 1802,
+   "year_to": 1804,
+   "by": "mboron"
+  },
+  {
+   "scan": 14,
+   "type": "iO",
+   "year": 1811,
+   "year_to": 1813,
+   "by": "mboron"
+  },
+  {
+   "scan": 15,
+   "type": "iO",
+   "year": 1813,
+   "year_to": 1816,
+   "by": "mboron"
+  },
+  {
+   "scan": 16,
+   "type": "iO",
+   "year": 1816,
+   "year_to": 1818,
+   "by": "mboron"
+  },
+  {
+   "scan": 17,
+   "type": "iO",
+   "year": 1818,
+   "year_to": 1820,
+   "by": "mboron"
+  },
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1820,
+   "year_to": 1822,
+   "by": "mboron"
+  },
+  {
+   "scan": 19,
+   "type": "iO",
+   "year": 1822,
+   "year_to": 1824,
+   "by": "mboron"
+  },
+  {
+   "scan": 22,
+   "type": "iO",
+   "year": 1827,
+   "year_to": 1828,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

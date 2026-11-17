@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be89431c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be89431c-f13c-102f-8255-0050568c0263",
+ "signature": "Ka VII 12",
+ "parish": "Těrlicko",
+ "district": "Karviná",
+ "places": [
+  "Těrlicko",
+  "Hradiště",
+  "Chotěbuz",
+  "Koňákov",
+  "Koty",
+  "Mistřovice",
+  "Stanislavice"
+ ],
+ "place_codes": {
+  "Hradiště": 47481,
+  "Chotěbuz": 52957,
+  "Koňákov": 96113,
+  "Mistřovice": 96121,
+  "Stanislavice": 153524
+ },
+ "records": {
+  "N": "1795–1827"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1803,
+   "page": "fol. 24",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1806,
+   "page": "fol. 34",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1807,
+   "page": "fol. 38",
+   "place": "Těrlicko",
+   "by": "mboron"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1805,
+   "page": "fol. 224",
+   "place": "Hradiště",
+   "by": "mboron"
+  },
+  {
+   "scan": 229,
+   "type": "N",
+   "year": 1827,
+   "page": "fol. 246–247",
+   "place": "Hradiště",
+   "note": "konec oddílu",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

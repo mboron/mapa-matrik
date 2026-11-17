@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be891e00-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be891e00-f13c-102f-8255-0050568c0263",
+ "signature": "Ka I 8",
+ "parish": "Dolní Bludovice",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Datyně",
+  "Šumbark",
+  "Životice"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Datyně": 28908,
+  "Šumbark": 37737,
+  "Životice": 37681
+ },
+ "records": {
+  "O": "1836–1879",
+  "iO": "1836–1879"
+ },
+ "order": "by_village",
+ "notes": [
+  "Po obcích, rejstřík na konci."
+ ],
+ "points": [
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1859,
+   "year_to": 1861,
+   "page": "26–27",
+   "place": "Prostřední Bludovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1857,
+   "year_to": 1860,
+   "page": "fol. 26–27",
+   "place": "Horní Bludovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1867,
+   "page": "fol. 34–35",
+   "place": "Horní Bludovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 107,
+   "type": "O",
+   "year": 1864,
+   "year_to": 1867,
+   "page": "14–15",
+   "place": "Životice",
+   "by": "mboron"
+  },
+  {
+   "scan": 132,
+   "type": "iO",
+   "letters": "O",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88e408-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88e408-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VIII 3",
+ "parish": "Hnojník",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Hnojník",
+  "Komorní Lhotka",
+  "Pazderna",
+  "Třanovice",
+  "Vělopolí"
+ ],
+ "place_codes": {
+  "Hnojník": 40193,
+  "Komorní Lhotka": 68811,
+  "Pazderna": 118605,
+  "Třanovice": 413356,
+  "Vělopolí": 179841
+ },
+ "records": {
+  "O": "1773–1866"
+ },
+ "order": "by_village",
+ "scans": 186,
+ "notes": [
+  "Od konce 18. stol. po obcích; zapsány i evangelické páry."
+ ],
+ "points": [
+  {
+   "scan": 159,
+   "type": "O",
+   "year": 1835,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

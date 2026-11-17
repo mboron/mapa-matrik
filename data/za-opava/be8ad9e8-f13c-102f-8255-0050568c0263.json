@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ad9e8-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ad9e8-f13c-102f-8255-0050568c0263",
+ "signature": "ET I 9",
+ "parish": "Dolní Bludovice (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Suchá",
+  "Prostřední Suchá",
+  "Horní Suchá",
+  "Dolní Těrlicko",
+  "Horní Těrlicko",
+  "Stonava",
+  "Životice",
+  "Šumbark",
+  "Datyně"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Suchá": 37770,
+  "Prostřední Suchá": 37745,
+  "Horní Suchá": 44407,
+  "Dolní Těrlicko": 166600,
+  "Horní Těrlicko": 166570,
+  "Stonava": 155632,
+  "Životice": 37681,
+  "Šumbark": 37737
+ },
+ "records": {
+  "O": "1833–1884",
+  "iO": "1860–1884"
+ },
+ "notes": [
+  "Rejstříky po letech od 1860 asi na sn. 205–226."
+ ],
+ "points": [
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1846,
+   "by": "mboron"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1849,
+   "by": "mboron"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1852,
+   "by": "mboron"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1853,
+   "by": "mboron"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1858,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

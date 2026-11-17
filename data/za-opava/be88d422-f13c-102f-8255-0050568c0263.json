@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d422-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d422-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 2",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "iN": "1773–1873"
+ },
+ "notes": [
+  "Po písmenech; čísla fol. odkazují na Fr VI 1 (do 1839) a Fr VI 7 (od 1840)."
+ ],
+ "points": [
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1783,
+   "year_to": 1812,
+   "letters": "C (Ch)",
+   "by": "mboron"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "year": 1803,
+   "year_to": 1819,
+   "letters": "G",
+   "by": "mboron"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "year": 1820,
+   "year_to": 1827,
+   "letters": "G",
+   "by": "mboron"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1843,
+   "year_to": 1861,
+   "letters": "G",
+   "by": "mboron"
+  },
+  {
+   "scan": 108,
+   "type": "iN",
+   "year": 1819,
+   "year_to": 1836,
+   "letters": "O",
+   "by": "mboron"
+  },
+  {
+   "scan": 109,
+   "type": "iN",
+   "year": 1837,
+   "year_to": 1856,
+   "letters": "O",
+   "by": "mboron"
+  },
+  {
+   "scan": 163,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1785,
+   "letters": "W",
+   "page": "176",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

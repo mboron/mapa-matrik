@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8af70c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8af70c-f13c-102f-8255-0050568c0263",
+ "signature": "ET III 9",
+ "parish": "Komorní Lhotka (evang.)",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Komorní Lhotka",
+  "Dolní Tošanovice",
+  "Horní Tošanovice",
+  "Smilovice",
+  "Hnojník",
+  "Řeka",
+  "Guty",
+  "Lískovec"
+ ],
+ "place_codes": {
+  "Komorní Lhotka": 68811,
+  "Dolní Tošanovice": 30236,
+  "Horní Tošanovice": 44466,
+  "Smilovice": 151041,
+  "Hnojník": 40193,
+  "Řeka": 145050,
+  "Guty": 36293,
+  "Lískovec": 84891
+ },
+ "records": {
+  "O": "1859–1908"
+ },
+ "points": [
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1884,
+   "by": "mboron"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "year": 1893,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

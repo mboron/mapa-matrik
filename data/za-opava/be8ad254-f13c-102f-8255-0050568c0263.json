@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ad254-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ad254-f13c-102f-8255-0050568c0263",
+ "signature": "ET I 1",
+ "parish": "Dolní Bludovice (evang.)",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice",
+  "Dolní Suchá",
+  "Prostřední Suchá",
+  "Horní Suchá",
+  "Dolní Těrlicko",
+  "Horní Těrlicko",
+  "Stonava",
+  "Životice",
+  "Šumbark",
+  "Datyně"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404,
+  "Dolní Suchá": 37770,
+  "Prostřední Suchá": 37745,
+  "Horní Suchá": 44407,
+  "Dolní Těrlicko": 166600,
+  "Horní Těrlicko": 166570,
+  "Stonava": 155632,
+  "Životice": 37681,
+  "Šumbark": 37737
+ },
+ "records": {
+  "N": "1784–1806"
+ },
+ "order": "chronological",
+ "scans": 185,
+ "notes": [
+  "Chronologicky za všechny obce, latinsky; ~1,5 měsíce na snímek. Rejstřík ET I 5."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1784,
+   "months": "VIII",
+   "page": "1",
+   "note": "začátek zápisů 15. 8. 1784",
+   "by": "mboron"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1784,
+   "months": "IX–X",
+   "page": "2–3",
+   "by": "mboron"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1789,
+   "months": "X",
+   "page": "74–75",
+   "by": "mboron"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1790,
+   "by": "mboron"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1792,
+   "by": "mboron"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1800,
+   "by": "mboron"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1804,
+   "page": "fol. 302",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d51c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d51c-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 4",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "O": "1773–1868"
+ },
+ "order": "by_village",
+ "scans": 266,
+ "points": [
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1845,
+   "months": "VI–X",
+   "place": "Domaslavice",
+   "note": "vizitační zápis 4. 6. 1845",
+   "by": "mboron"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1796,
+   "year_to": 1801,
+   "page": "fol. 3–4",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1832,
+   "year_to": 1837,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1840,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1841,
+   "year_to": 1845,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1857,
+   "page": "21–22",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1861,
+   "year_to": 1865,
+   "page": "23–24",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 91,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1868,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1856,
+   "year_to": 1859,
+   "place": "Zavadovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1845,
+   "year_to": 1846,
+   "place": "Tošanovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1864,
+   "year_to": 1865,
+   "place": "Dobratice",
+   "by": "mboron"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1855,
+   "place": "Bukovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1799,
+   "year_to": 1813,
+   "page": "fol. 6–7",
+   "place": "Kocurovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1790,
+   "place": "Soběšovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "place": "Soběšovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 240,
+   "type": "O",
+   "year": 1867,
+   "place": "Soběšovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 250,
+   "type": "O",
+   "year": 1861,
+   "year_to": 1862,
+   "place": "Pitrov",
+   "by": "mboron"
+  },
+  {
+   "scan": 252,
+   "type": "O",
+   "year": 1848,
+   "place": "Domaslavice",
+   "note": "začátek pokračování „Ober und Nieder Domaslowitz 1848“",
+   "by": "mboron"
+  },
+  {
+   "scan": 256,
+   "type": "O",
+   "year": 1852,
+   "place": "Domaslavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 262,
+   "type": "O",
+   "year": 1860,
+   "place": "Domaslavice",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

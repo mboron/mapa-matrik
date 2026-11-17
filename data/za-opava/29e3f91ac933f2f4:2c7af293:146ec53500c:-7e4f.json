@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7e4f",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7e4f",
+ "signature": "Ka VII 26",
+ "parish": "Těrlicko",
+ "district": "Karviná",
+ "places": [
+  "Těrlicko",
+  "Hradiště",
+  "Chotěbuz",
+  "Koňákov",
+  "Koty",
+  "Mistřovice",
+  "Stanislavice"
+ ],
+ "place_codes": {
+  "Hradiště": 47481,
+  "Chotěbuz": 52957,
+  "Koňákov": 96113,
+  "Mistřovice": 96121,
+  "Stanislavice": 153524
+ },
+ "records": {
+  "Z": "1851–1928"
+ },
+ "order": "by_village",
+ "notes": [
+  "Rejstřík I-Z 1851–1949 Ka VII 18."
+ ],
+ "points": [
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1883,
+   "year_to": 1884,
+   "page": "330",
+   "place": "Hradiště",
+   "by": "mboron"
+  },
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1884,
+   "place": "Hradiště",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

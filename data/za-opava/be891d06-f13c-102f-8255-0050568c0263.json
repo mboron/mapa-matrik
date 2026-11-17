@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be891d06-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be891d06-f13c-102f-8255-0050568c0263",
+ "signature": "Ka I 6",
+ "parish": "Dolní Bludovice",
+ "district": "Karviná",
+ "places": [
+  "Dolní Bludovice",
+  "Prostřední Bludovice",
+  "Horní Bludovice"
+ ],
+ "place_codes": {
+  "Prostřední Bludovice": 42412,
+  "Horní Bludovice": 42404
+ },
+ "records": {
+  "N": "1836–1880",
+  "iN": "1836–1880"
+ },
+ "scans": 366,
+ "points": [
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1840,
+   "months": "III–VI",
+   "page": "44–45",
+   "by": "mboron"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1840,
+   "months": "VI–IX",
+   "page": "46–47",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

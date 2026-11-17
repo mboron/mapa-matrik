@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be890974-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be890974-f13c-102f-8255-0050568c0263",
+ "signature": "Ja VI 9",
+ "parish": "Smilovice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Smilovice",
+  "Řeka"
+ ],
+ "place_codes": {
+  "Smilovice": 151041,
+  "Řeka": 145050
+ },
+ "records": {
+  "N": "1785–1898",
+  "O": "1785–1898",
+  "Z": "1785–1898",
+  "iN": "1785–1898"
+ },
+ "scans": 379,
+ "points": [
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1801,
+   "by": "mboron"
+  },
+  {
+   "scan": 311,
+   "type": "Z",
+   "year": 1813,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

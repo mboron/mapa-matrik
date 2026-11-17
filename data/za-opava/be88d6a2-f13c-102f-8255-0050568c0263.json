@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d6a2-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d6a2-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 7",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "N": "1839–1896"
+ },
+ "order": "by_village",
+ "scans": 271,
+ "notes": [
+  "Bez rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 136,
+   "type": "N",
+   "year": 1840,
+   "page": "fol. 1",
+   "place": "Volovec",
+   "note": "začátek oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "6–7",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1845,
+   "year_to": 1847,
+   "page": "8–9",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1847,
+   "year_to": 1849,
+   "page": "10–11",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1868,
+   "year_to": 1870,
+   "page": "28–29",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1869,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1872,
+   "page": "30",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "year": 1872,
+   "place": "Tošanovice",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

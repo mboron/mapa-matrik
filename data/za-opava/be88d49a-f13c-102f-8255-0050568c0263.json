@@ -1,0 +1,178 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d49a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d49a-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 3",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "N": "1797–1839"
+ },
+ "order": "by_village",
+ "scans": 260,
+ "notes": [
+  "Pokračovací kniha k Fr VI 1. Štítek s číslem na papíře je od asi sn. 100 o 1 vyšší než číslo snímku."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "place": "Domaslavice",
+   "note": "začátek oddílu Domaslavice (D. a H.), vlevo poznámka o konskripci",
+   "by": "mboron"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1803,
+   "page": "fol. 25",
+   "place": "Kocurovice",
+   "note": "začátek oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1814,
+   "year_to": 1817,
+   "page": "fol. 32–33",
+   "place": "Kocurovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1817,
+   "place": "Kocurovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1826,
+   "year_to": 1828,
+   "page": "39–40",
+   "place": "Kocurovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1840,
+   "page": "49–50",
+   "place": "Kocurovice",
+   "note": "konec oddílu („Fortsetzung folgt in No. III“)",
+   "by": "mboron"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1798,
+   "months": "VII",
+   "page": "fol. 64",
+   "place": "Tošanovice",
+   "note": "začátek oddílu (D. a H. Tošanovice)",
+   "by": "mboron"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1817,
+   "year_to": 1818,
+   "page": "fol. 117–118",
+   "place": "Tošanovice",
+   "note": "vložen seznam dětí pokřtěných v Ellgoth 11/1817–4/1818",
+   "by": "mboron"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1839,
+   "year_to": 1840,
+   "page": "175–176",
+   "place": "Tošanovice",
+   "note": "konec oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1797,
+   "months": "XII",
+   "page": "fol. 36",
+   "note": "začátek oddílu, nadpis obce nečitelný (asi Dobratice)",
+   "by": "mboron"
+  },
+  {
+   "scan": 182,
+   "type": "N",
+   "year": 1802,
+   "months": "V",
+   "page": "fol. 30",
+   "place": "Bukovice",
+   "note": "začátek oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1838,
+   "year_to": 1840,
+   "page": "fol. 59–60",
+   "place": "Bukovice",
+   "note": "konec oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1795,
+   "months": "II",
+   "page": "fol. 35",
+   "place": "Soběšovice",
+   "note": "začátek oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 215,
+   "type": "N",
+   "year": 1802,
+   "page": "fol. 66–67",
+   "place": "Soběšovice",
+   "by": "mboron"
+  },
+  {
+   "scan": 216,
+   "type": "N",
+   "year": 1803,
+   "page": "fol. 68–69",
+   "place": "Soběšovice",
+   "note": "nový formulář",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-1a4a38d6:146a3b2f907:-7fef",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-1a4a38d6:146a3b2f907:-7fef",
+ "signature": "Fr VI 20",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "Z": "1842–1946"
+ },
+ "order": "by_village",
+ "notes": [
+  "Rejstřík I-Z 1874–1949 Fr VI 28."
+ ],
+ "points": [
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1844,
+   "page": "1",
+   "place": "Volovec",
+   "note": "začátek oddílu",
+   "by": "mboron"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1844,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 126,
+   "type": "Z",
+   "year": 1844,
+   "year_to": 1847,
+   "page": "2–3",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1851,
+   "page": "4–5",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1850,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1854,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 129,
+   "type": "Z",
+   "year": 1855,
+   "year_to": 1859,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1860,
+   "year_to": 1865,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 131,
+   "type": "Z",
+   "year": 1865,
+   "year_to": 1869,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1870,
+   "year_to": 1875,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 133,
+   "type": "Z",
+   "year": 1876,
+   "year_to": 1882,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 134,
+   "type": "Z",
+   "year": 1882,
+   "year_to": 1886,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 135,
+   "type": "Z",
+   "year": 1887,
+   "year_to": 1893,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1893,
+   "year_to": 1897,
+   "page": "fol. 21–22",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1895,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "year": 1905,
+   "year_to": 1910,
+   "page": "fol. 26",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "year": 1909,
+   "place": "Volovec",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

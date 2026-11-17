@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be89371e-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be89371e-f13c-102f-8255-0050568c0263",
+ "signature": "Ka V 8",
+ "parish": "Orlová",
+ "district": "Karviná",
+ "places": [
+  "Orlová",
+  "Lazy",
+  "Doubrava",
+  "Poruba"
+ ],
+ "place_codes": {
+  "Lazy": 413461,
+  "Doubrava": 31160,
+  "Poruba": 413488
+ },
+ "records": {
+  "O": "1738–1841"
+ },
+ "order": "mixed",
+ "scans": 133,
+ "notes": [
+  "Do 1784 všechny obce chronologicky, pak po obcích; stránkováno, 2 strany na snímek; i sňatky evangelíků. Rejstřík Ka V 9."
+ ],
+ "points": [
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1781,
+   "by": "mboron"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1789,
+   "by": "mboron"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1799,
+   "page": "12",
+   "place": "Orlová",
+   "by": "mboron"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1810,
+   "by": "mboron"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1810,
+   "page": "16–17",
+   "place": "Orlová",
+   "note": "vizitace 18. 9. 1810",
+   "by": "mboron"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1812,
+   "by": "mboron"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1813,
+   "page": "18–19",
+   "place": "Orlová",
+   "by": "mboron"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1816,
+   "months": "XI",
+   "page": "22",
+   "place": "Orlová",
+   "by": "mboron"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1819,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

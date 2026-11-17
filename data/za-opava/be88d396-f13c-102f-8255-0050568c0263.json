@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d396-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d396-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 1",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "N": "1773–1839"
+ },
+ "order": "mixed",
+ "scans": 388,
+ "notes": [
+  "Do asi 1783 chronologicky za celou farnost (sloupec Locus, ~10 snímků na rok), pak oddíly po obcích (Zavadovice sn. 188, Tošanovice 223, Dobratice 284, Pitrov 365). Rejstřík Fr VI 2."
+ ],
+ "points": [
+  {
+   "scan": 1,
+   "type": "N",
+   "year": 1773,
+   "page": "fol. 1",
+   "note": "začátek knihy, leden 1773",
+   "by": "mboron"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XII–I",
+   "page": "fol. CX–CXI",
+   "note": "chronologická část za celou farnost; vizitace 25. 2. 1782",
+   "by": "mboron"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "fol. 191–192",
+   "place": "Domaslavice",
+   "by": "mboron"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1806,
+   "page": "fol. 28–29",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1806,
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1833,
+   "year_to": 1835,
+   "page": "56–57",
+   "place": "Volovec",
+   "by": "mboron"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1785,
+   "page": "fol. 1",
+   "place": "Zavadovice",
+   "note": "začátek oddílu obce",
+   "by": "mboron"
+  },
+  {
+   "scan": 223,
+   "type": "N",
+   "year": 1785,
+   "page": "fol. 1",
+   "place": "Tošanovice",
+   "note": "začátek oddílu obce",
+   "by": "mboron"
+  },
+  {
+   "scan": 284,
+   "type": "N",
+   "year": 1785,
+   "page": "fol. 1",
+   "place": "Dobratice",
+   "note": "začátek oddílu obce",
+   "by": "mboron"
+  },
+  {
+   "scan": 365,
+   "type": "N",
+   "year": 1785,
+   "page": "fol. 1",
+   "place": "Pitrov",
+   "note": "začátek oddílu obce",
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

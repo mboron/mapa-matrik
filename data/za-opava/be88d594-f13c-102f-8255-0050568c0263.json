@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88d594-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88d594-f13c-102f-8255-0050568c0263",
+ "signature": "Fr VI 5",
+ "parish": "Domaslavice",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Domaslavice",
+  "Tošanovice",
+  "Kocurovice",
+  "Volovec",
+  "Zavadovice",
+  "Dobratice",
+  "Bukovice",
+  "Soběšovice",
+  "Pitrov",
+  "Šprochovice"
+ ],
+ "place_codes": {
+  "Dobratice": 27146,
+  "Soběšovice": 151939
+ },
+ "records": {
+  "Z": "1773–1841"
+ },
+ "order": "by_village",
+ "notes": [
+  "Zapisuje i evangelíky; oddíl Tošanovice od sn. 144."
+ ],
+ "points": [
+  {
+   "scan": 170,
+   "type": "Z",
+   "year": 1804,
+   "by": "mboron"
+  },
+  {
+   "scan": 175,
+   "type": "Z",
+   "year": 1812,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}

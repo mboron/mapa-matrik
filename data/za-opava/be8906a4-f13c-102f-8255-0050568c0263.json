@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8906a4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8906a4-f13c-102f-8255-0050568c0263",
+ "signature": "Ja VI 3",
+ "parish": "Střítež",
+ "district": "Frýdek-Místek",
+ "places": [
+  "Střítež",
+  "Smilovice"
+ ],
+ "place_codes": {
+  "Střítež": 157937,
+  "Smilovice": 151041
+ },
+ "records": {
+  "O": "1725–1784"
+ },
+ "scans": 249,
+ "points": [
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1780,
+   "by": "mboron"
+  }
+ ],
+ "sources": [
+  {
+   "by": "mboron",
+   "date": "2026-11-17"
+  }
+ ]
+}
